@@ -1,0 +1,72 @@
+Booking a room with = 
+[
+    {
+        "Customer_name":"mohan",
+        "Date":"2000-8-8",
+        "Start_time":"8:00AM",
+        "End_time":"8:00PM",
+        "Room_ID":"A123"
+    },
+     {
+        Customer_name:"mohan",
+        Date:"2000-8-8",
+        Start_time:"8:00AM",
+        End_time:"8:00PM",
+        Room_ID:"A123"
+    },
+     {
+        Customer_name:"mohan",
+        Date:"2000-8-8",
+        Start_time:"8:00AM",
+        End_time:"8:00PM",
+        Room_ID:"A123"
+    },
+]
+
+List all Rooms with Booked Data with = [
+    {
+        Room_name:"PARK123",
+        Booked_status:"Book",
+        Customer_name:"mohan",
+        Date : "2001-5-5",
+        Start_time:"8:00AM",
+        End_time:"8:00PM",
+    },
+    {
+    Room_name:"PARK123",
+        Booked_status:"Book",
+        Customer_name:"mohan",
+        Date : "2001-5-5",
+        Start_time:"8:00AM",
+        End_time:"8:00PM",
+    },
+]
+
+List all customers with booked Data with=[
+    {
+        Room_name:"PARK123",
+        Customer_name:"mohan",
+        Date : "2001-5-5",
+        Start_time:"8:00AM",
+        End_time:"8:00PM",
+},
+{
+        Room_name:"PARK123",
+        Customer_name:"mohan",
+        Date : "2001-5-5",
+        Start_time:"8:00AM",
+        End_time:"8:00PM",
+},
+{
+        Room_name:"PARK123",
+        Customer_name:"mohan",
+        Date : "2001-5-5",
+        Start_time:"8:00AM",
+        End_time:"8:00PM",
+},
+]
+Creating a Room with = [{
+    Number_Seats_Available :"",
+    Amenities_in_room:"",
+    Price_for_1Hour:"",
+}]
