@@ -16,7 +16,7 @@ export async function createConnection() {
 }
 
 room.get("/", (request, response) => {
-  response.send("Hello MOTO!!");
+  response.send("Welcome Hotel Booking ");
 });
 room.get("/listallrooms", async (request, response) => {
   const client = await createConnection();
